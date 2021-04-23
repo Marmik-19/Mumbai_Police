@@ -1,4 +1,4 @@
-# Mumbai_Police<img src="https://user-images.githubusercontent.com/52334437/107213570-9f626e00-6a2e-11eb-8bca-d09303c6a0dd.png" width="40">
+# Mumbai_Police
 
 
 [![](https://img.shields.io/badge/Made%20With-Leaflet-228B22?style=for-the-badge&logo=Leaflet)](https://www.tensorflow.org "Tensorflow")
